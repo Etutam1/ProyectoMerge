@@ -9,5 +9,5 @@ package proyectomerge;
  * @author a22lucasmpg
  */
 public class Clase2 {
-    
+    //Esto es un comentario para el merge//
 }
